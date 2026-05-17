@@ -18,4 +18,4 @@ class EC2:
 
 
 obj = EC2()
-obj.launch()
+obj.launch() # object created for reference
